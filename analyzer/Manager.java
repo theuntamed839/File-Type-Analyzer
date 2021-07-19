@@ -18,7 +18,6 @@ public class Manager {
     public void execute() {
         String[] listOfFiles = FileManager.getFileNames(directoryName);
         ExecutorService service = Executors.newFixedThreadPool(10);
-//        ExecutorService service = Executors.newSingleThreadExecutor();
         for (String each : listOfFiles){
             service.execute(new FileChecker(codes, each));
         }

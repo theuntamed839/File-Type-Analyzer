@@ -29,12 +29,10 @@ public class FileChecker implements Runnable {
     private void manager() {
         int i = 0;
         for (String pattern : patterns.keySet()) {
-            System.out.println(pattern + " checking"+i++);
             if (checker(FileName, pattern)) {
-                System.out.println("asdasdasdasdasdasdasdasdasdasdsadasdas");
                 String[] f = FileName.split("/");
                 System.out.println(f[f.length - 1] + ": " + patterns.get(pattern));
-                break;
+                return;
             }
         }
         String[] f = FileName.split("/");
@@ -49,10 +47,8 @@ public class FileChecker implements Runnable {
                 if (kmp(pattern, convertedString)) {
                     return true;
                 }
-//                else System.out.println(pattern+convertedString+"qqqqqqqqqqqqqqqqqqqqq"+convertedString.contains(pattern));
             }
         } catch (IOException e) {
-            System.out.println("adasdasdasdas");
             e.printStackTrace();
         }
         return false;

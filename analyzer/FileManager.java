@@ -32,7 +32,6 @@ public class FileManager {
                 String[] piece = s.nextLine().trim().split(";");
                 pattern[k] = piece[1].replace("\"","");
                 description[k++] = piece[2].replace("\"","");
-//                codes.put(piece[1], piece[2]);
             }
             for (int i = k - 1; i >= 0 ; i--) {
                 codes.put(pattern[i], description[i]);
