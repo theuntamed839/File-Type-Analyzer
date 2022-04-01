@@ -1,0 +1,3487 @@
+[
+  {
+    "fileType": "xz",
+    "mime": "application/x-xz",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          -3,
+          55,
+          122,
+          88,
+          90,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "dmp",
+    "mime": "application/vnd.tcpdump.pcap",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          77,
+          68,
+          77,
+          80,
+          -109,
+          -89
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          65,
+          71,
+          69,
+          68,
+          85,
+          54,
+          52
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          65,
+          71,
+          69,
+          68,
+          85,
+          77,
+          80
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "dms",
+    "mime": "text/vnd.DMClientScript",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          68,
+          77,
+          83,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "xul",
+    "mime": "application/vnd.mozilla.xul+xml",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          60,
+          63,
+          120,
+          109,
+          108,
+          32,
+          118,
+          101,
+          114,
+          115,
+          105,
+          111,
+          110,
+          61,
+          34,
+          49,
+          46,
+          48,
+          34,
+          63,
+          62
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "midi",
+    "mime": "audio/midi",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          77,
+          84,
+          104,
+          100
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "exe",
+    "mime": "application/octet-stream",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          77,
+          90
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "mov",
+    "mime": "video/quicktime",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          0
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          0,
+          0,
+          0,
+          20,
+          102,
+          116,
+          121,
+          112,
+          113,
+          116,
+          32,
+          32
+        ]
+      },
+      {
+        "offSet": 4,
+        "code": [
+          102,
+          116,
+          121,
+          112,
+          113,
+          116,
+          32,
+          32
+        ]
+      },
+      {
+        "offSet": 4,
+        "code": [
+          109,
+          111,
+          111,
+          118
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "mxf",
+    "mime": "application/mxf",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          6,
+          14,
+          43,
+          52,
+          2,
+          5,
+          1,
+          1,
+          13,
+          1,
+          2,
+          1,
+          1,
+          2
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          60,
+          67,
+          84,
+          114,
+          97,
+          110,
+          115,
+          84,
+          105,
+          109,
+          101,
+          108,
+          105,
+          110,
+          101,
+          62
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "jar",
+    "mime": "application/x-java-archive",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          74,
+          65,
+          82,
+          67,
+          83,
+          0
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          75,
+          3,
+          4
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          75,
+          3,
+          4,
+          20,
+          0,
+          8,
+          0,
+          8,
+          0
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          95,
+          39,
+          -88,
+          -119
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "qxd",
+    "mime": "application/vnd.Quark.QuarkXPress",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          0,
+          0,
+          77,
+          77,
+          88,
+          80,
+          82
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "wks",
+    "mime": "application/vnd.ms-works",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          14,
+          87,
+          75,
+          83
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          -1,
+          0,
+          2,
+          0,
+          4,
+          4,
+          5,
+          84,
+          2,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "3g2",
+    "mime": "video/3gpp2",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          0,
+          0,
+          0,
+          20,
+          102,
+          116,
+          121,
+          112,
+          51,
+          103,
+          112
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          0,
+          0,
+          0,
+          32,
+          102,
+          116,
+          121,
+          112,
+          51,
+          103,
+          112
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "ram",
+    "mime": "audio/x-pn-realaudio",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          114,
+          116,
+          115,
+          112,
+          58,
+          47,
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "zip",
+    "mime": "application/zip",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          75,
+          3,
+          4
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          75,
+          3,
+          4
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          75,
+          3,
+          4,
+          20,
+          0,
+          1,
+          0,
+          99,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          75,
+          7,
+          8
+        ]
+      },
+      {
+        "offSet": 30,
+        "code": [
+          80,
+          75,
+          76,
+          73,
+          84,
+          69
+        ]
+      },
+      {
+        "offSet": 526,
+        "code": [
+          80,
+          75,
+          83,
+          112,
+          88
+        ]
+      },
+      {
+        "offSet": 29152,
+        "code": [
+          87,
+          105,
+          110,
+          90,
+          105,
+          112
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "apr",
+    "mime": "application/vnd.lotus-approach",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          -48,
+          -49,
+          17,
+          -32,
+          -95,
+          -79,
+          26,
+          -31
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "rar",
+    "mime": "application/vnd.rar",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          82,
+          97,
+          114,
+          33,
+          26,
+          7,
+          0
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          82,
+          97,
+          114,
+          33,
+          26,
+          7,
+          1,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "mpg",
+    "mime": "video/mpeg",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          0,
+          0,
+          1,
+          0
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          0,
+          0,
+          1,
+          -70
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          -1,
+          -40
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "ai",
+    "mime": "application/postscript",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          37,
+          80,
+          68,
+          70
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "png",
+    "mime": "image/png",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          -119,
+          80,
+          78,
+          71,
+          13,
+          10,
+          26,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "eps",
+    "mime": "application/postscript",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          37,
+          33,
+          80,
+          83,
+          45,
+          65,
+          100,
+          111,
+          98,
+          101,
+          45,
+          51,
+          46,
+          48,
+          32,
+          69,
+          80,
+          83,
+          70,
+          45,
+          51,
+          32,
+          48
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          -59,
+          -48,
+          -45,
+          -58
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "ott",
+    "mime": "application/vnd.oasis.opendocument.text-template",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          75,
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "ra",
+    "mime": "audio/x-realaudio",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          46,
+          82,
+          77,
+          70,
+          0,
+          0,
+          0,
+          18,
+          0
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          46,
+          114,
+          97,
+          -3,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "123",
+    "mime": "application/vnd.lotus-1-2-3",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          0,
+          0,
+          26,
+          0,
+          5,
+          16,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "au",
+    "mime": "audio/basic",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          46,
+          115,
+          110,
+          100
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          100,
+          110,
+          115,
+          46
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "dwg",
+    "mime": "image/vnd.dwg",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          65,
+          67,
+          49,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "doc",
+    "mime": "application/msword",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          13,
+          68,
+          79,
+          67
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          -49,
+          17,
+          -32,
+          -95,
+          -79,
+          26,
+          -31,
+          0
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          -48,
+          -49,
+          17,
+          -32,
+          -95,
+          -79,
+          26,
+          -31
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          -37,
+          -91,
+          45,
+          0
+        ]
+      },
+      {
+        "offSet": 512,
+        "code": [
+          -20,
+          -91,
+          -63,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "odp",
+    "mime": "application/vnd.oasis.opendocument.presentation",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          75,
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "rm",
+    "mime": "audio/x-pn-realaudio",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          46,
+          82,
+          77,
+          70
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "odt",
+    "mime": "application/vnd.oasis.opendocument.text",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          75,
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "nsf",
+    "mime": "application/vnd.lotus-notes",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          26,
+          0,
+          0,
+          4,
+          0,
+          0
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          78,
+          69,
+          83,
+          77,
+          26,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "lwp",
+    "mime": "application/vnd.lotus-wordpro",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          87,
+          111,
+          114,
+          100,
+          80,
+          114,
+          111
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "log",
+    "mime": "text/plain",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          42,
+          42,
+          42,
+          32,
+          32,
+          73,
+          110,
+          115,
+          116,
+          97,
+          108,
+          108,
+          97,
+          116,
+          105,
+          111,
+          110,
+          32,
+          83,
+          116,
+          97,
+          114,
+          116,
+          101,
+          100,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "flac",
+    "mime": "audio/x-flac",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          102,
+          76,
+          97,
+          67,
+          0,
+          0,
+          0,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "dot",
+    "mime": "text/vnd.graphviz",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          -48,
+          -49,
+          17,
+          -32,
+          -95,
+          -79,
+          26,
+          -31
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "mid",
+    "mime": "audio/midi",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          77,
+          84,
+          104,
+          100
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "wma",
+    "mime": "audio/x-ms-wma",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          48,
+          38,
+          -78,
+          117,
+          -114,
+          102,
+          -49,
+          17,
+          -90,
+          -39,
+          0,
+          -86,
+          0,
+          98,
+          -50,
+          108
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "mif",
+    "mime": "application/vnd.mif",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          60,
+          77,
+          97,
+          107,
+          101,
+          114,
+          70,
+          105,
+          108,
+          101,
+          32
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          86,
+          101,
+          114,
+          115,
+          105,
+          111,
+          110,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "wmf",
+    "mime": "image/wmf",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          1,
+          0,
+          9,
+          0,
+          0,
+          3
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          -41,
+          -51,
+          -58,
+          -102
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "vcd",
+    "mime": "application/x-cdlink",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          69,
+          78,
+          84,
+          82,
+          89,
+          86,
+          67,
+          68,
+          2,
+          0,
+          0,
+          1,
+          2,
+          0,
+          24,
+          88
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "epub",
+    "mime": "application/epub+zip",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          75,
+          3,
+          4,
+          10,
+          0,
+          2,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "pgm",
+    "mime": "image/x-portable-graymap",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          53,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "vcf",
+    "mime": "text/vcard",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          66,
+          69,
+          71,
+          73,
+          78,
+          58,
+          86,
+          67,
+          65,
+          82,
+          68,
+          13,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "kmz",
+    "mime": "application/vnd.google-earth.kmz",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          75,
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "jpeg",
+    "mime": "image/jpeg",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          -1,
+          -40
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          -1,
+          -40
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "3gp",
+    "mime": "video/3gpp",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          0,
+          0,
+          0,
+          20,
+          102,
+          116,
+          121,
+          112,
+          51,
+          103,
+          112
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          0,
+          0,
+          0,
+          32,
+          102,
+          116,
+          121,
+          112,
+          51,
+          103,
+          112
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "ntf",
+    "mime": "application/vnd.lotus-notes",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          26,
+          0,
+          0
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          48,
+          49,
+          79,
+          82,
+          68,
+          78,
+          65,
+          78,
+          67,
+          69,
+          32,
+          83,
+          85,
+          82,
+          86,
+          69,
+          89,
+          32,
+          32,
+          32,
+          32,
+          32,
+          32,
+          32
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          78,
+          73,
+          84,
+          70,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "xlsx",
+    "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          75,
+          3,
+          4,
+          20,
+          0,
+          6,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "wmv",
+    "mime": "video/x-ms-wmv",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          48,
+          38,
+          -78,
+          117,
+          -114,
+          102,
+          -49,
+          17,
+          -90,
+          -39,
+          0,
+          -86,
+          0,
+          98,
+          -50,
+          108
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "art",
+    "mime": "message/rfc822",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          74,
+          71,
+          4,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "lha",
+    "mime": "application/octet-stream",
+    "signature": [
+      {
+        "offSet": 2,
+        "code": [
+          45,
+          108,
+          104
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "rtf",
+    "mime": "application/rtf",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          123,
+          92,
+          114,
+          116,
+          102,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "tgz",
+    "mime": "application/gzip",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          31,
+          -117,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "jfif",
+    "mime": "image/jpeg",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          -1,
+          -40
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "fdf",
+    "mime": "application/vnd.fdf",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          37,
+          80,
+          68,
+          70
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "docx",
+    "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          75,
+          3,
+          4,
+          20,
+          0,
+          6,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "xpi",
+    "mime": "application/x-xpinstall",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          75,
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "tpl",
+    "mime": "application/vnd.groove-tool-template",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          0,
+          32,
+          -81,
+          48
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          109,
+          115,
+          70,
+          105,
+          108,
+          116,
+          101,
+          114,
+          76,
+          105,
+          115,
+          116
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "flv",
+    "mime": "video/x-flv",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          0,
+          0,
+          0,
+          32,
+          102,
+          116,
+          121,
+          112,
+          77,
+          52,
+          86,
+          32
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          70,
+          76,
+          86,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "pps",
+    "mime": "application/vnd.ms-powerpoint",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          -48,
+          -49,
+          17,
+          -32,
+          -95,
+          -79,
+          26,
+          -31
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "asf",
+    "mime": "application/vnd.ms-asf",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          48,
+          38,
+          -78,
+          117,
+          -114,
+          102,
+          -49,
+          17,
+          -90,
+          -39,
+          0,
+          -86,
+          0,
+          98,
+          -50,
+          108
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "ppt",
+    "mime": "application/vnd.ms-powerpoint",
+    "signature": [
+      {
+        "offSet": 512,
+        "code": [
+          0,
+          110,
+          30,
+          -16
+        ]
+      },
+      {
+        "offSet": 512,
+        "code": [
+          15,
+          0,
+          -24,
+          3
+        ]
+      },
+      {
+        "offSet": 512,
+        "code": [
+          -96,
+          70,
+          29,
+          -16
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          -48,
+          -49,
+          17,
+          -32,
+          -95,
+          -79,
+          26,
+          -31
+        ]
+      },
+      {
+        "offSet": 512,
+        "code": [
+          -3,
+          -1,
+          -1,
+          -1,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "kwd",
+    "mime": "application/vnd.kde.kword",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          75,
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "xps",
+    "mime": "application/vnd.ms-xpsdocument",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          75,
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "dib",
+    "mime": "image/bmp",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          66,
+          77
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "ts",
+    "mime": "text/vnd.trolltech.linguist",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          71
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "msf",
+    "mime": "application/vnd.epson.msf",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          47,
+          47,
+          32,
+          60,
+          33,
+          45,
+          45,
+          32,
+          60,
+          109,
+          100,
+          98,
+          58,
+          109,
+          111,
+          114,
+          107,
+          58,
+          122
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "swf",
+    "mime": "application/x-shockwave-flash",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          67,
+          87,
+          83
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          70,
+          87,
+          83
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          90,
+          87,
+          83
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "iso",
+    "mime": "application/octet-stream",
+    "signature": [
+      {
+        "offSet": 32769,
+        "code": [
+          67,
+          68,
+          48,
+          48,
+          49
+        ]
+      },
+      {
+        "offSet": 34817,
+        "code": [
+          67,
+          68,
+          48,
+          48,
+          49
+        ]
+      },
+      {
+        "offSet": 36865,
+        "code": [
+          67,
+          68,
+          48,
+          48,
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "bmp",
+    "mime": "image/bmp",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          66,
+          77
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "asx",
+    "mime": "video/x-ms-asf",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          60
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "oga",
+    "mime": "audio/ogg",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          79,
+          103,
+          103,
+          83,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "hqx",
+    "mime": "application/mac-binhex40",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          40,
+          84,
+          104,
+          105,
+          115,
+          32,
+          102,
+          105,
+          108,
+          101,
+          32,
+          109,
+          117,
+          115,
+          116,
+          32,
+          98,
+          101,
+          32,
+          99,
+          111,
+          110,
+          118,
+          101,
+          114,
+          116,
+          101,
+          100,
+          32,
+          119,
+          105,
+          116,
+          104,
+          32,
+          66,
+          105,
+          110,
+          72,
+          101,
+          120,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "p10",
+    "mime": "application/pkcs10",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          100,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "ogg",
+    "mime": "audio/ogg",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          79,
+          103,
+          103,
+          83,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "tif",
+    "mime": "image/tiff",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          73,
+          32,
+          73
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          73,
+          73,
+          42,
+          0
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          77,
+          77,
+          0,
+          42
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          77,
+          77,
+          0,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "ico",
+    "mime": "image/vnd.microsoft.icon",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          0,
+          0,
+          1,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "koz",
+    "mime": "audio/vnd.audikoz",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          73,
+          68,
+          51,
+          3,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "oxps",
+    "mime": "application/oxps",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          75,
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "mkv",
+    "mime": "video/x-matroska",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          26,
+          69,
+          -33,
+          -93
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "lzh",
+    "mime": "application/octet-stream",
+    "signature": [
+      {
+        "offSet": 2,
+        "code": [
+          45,
+          108,
+          104
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "cpl",
+    "mime": "application/cpl+xml",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          77,
+          90
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          -36,
+          -36
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "sxd",
+    "mime": "application/vnd.sun.xml.draw",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          75,
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "qcp",
+    "mime": "audio/qcelp",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          82,
+          73,
+          70,
+          70
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "ogv",
+    "mime": "video/ogg",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          79,
+          103,
+          103,
+          83,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "sxc",
+    "mime": "application/vnd.sun.xml.calc",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          75,
+          3,
+          4
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          75,
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "prc",
+    "mime": "application/vnd.palm",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          66,
+          79,
+          79,
+          75,
+          77,
+          79,
+          66,
+          73
+        ]
+      },
+      {
+        "offSet": 60,
+        "code": [
+          116,
+          66,
+          77,
+          80,
+          75,
+          110,
+          87,
+          114
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "ogx",
+    "mime": "application/ogg",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          79,
+          103,
+          103,
+          83,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "tar",
+    "mime": "application/x-tar",
+    "signature": [
+      {
+        "offSet": 257,
+        "code": [
+          117,
+          115,
+          116,
+          97,
+          114
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "sxi",
+    "mime": "application/vnd.sun.xml.impress",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          75,
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "cpt",
+    "mime": "application/mac-compactpro",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          67,
+          80,
+          84,
+          55,
+          70,
+          73,
+          76,
+          69
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          67,
+          80,
+          84,
+          70,
+          73,
+          76,
+          69
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "xar",
+    "mime": "application/vnd.xara",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          120,
+          97,
+          114,
+          33
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "spf",
+    "mime": "application/vnd.yamaha.smaf-phrase",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          83,
+          80,
+          70,
+          73,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "chm",
+    "mime": "application/vnd.ms-htmlhelp",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          73,
+          84,
+          83,
+          70
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "wpd",
+    "mime": "application/vnd.wordperfect",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          -1,
+          87,
+          80,
+          67
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "webp",
+    "mime": "image/webp",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          82,
+          73,
+          70,
+          70
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "fits",
+    "mime": "image/fits",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          83,
+          73,
+          77,
+          80,
+          76,
+          69,
+          32,
+          32,
+          61,
+          32,
+          32,
+          32,
+          32,
+          32,
+          32,
+          32,
+          32,
+          32,
+          32,
+          32,
+          32,
+          32,
+          32,
+          32,
+          32,
+          32,
+          32,
+          32,
+          32,
+          84
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "jp2",
+    "mime": "image/jp2",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          0,
+          0,
+          0,
+          12,
+          106,
+          80,
+          32,
+          32,
+          13,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "spl",
+    "mime": "application/x-futuresplash",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          0,
+          0,
+          1,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "webm",
+    "mime": "video/webm",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          26,
+          69,
+          -33,
+          -93
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "pptx",
+    "mime": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          75,
+          3,
+          4,
+          20,
+          0,
+          6,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "wpl",
+    "mime": "application/vnd.ms-wpl",
+    "signature": [
+      {
+        "offSet": 84,
+        "code": [
+          77,
+          105,
+          99,
+          114,
+          111,
+          115,
+          111,
+          102,
+          116,
+          32,
+          87,
+          105,
+          110,
+          100,
+          111,
+          119,
+          115,
+          32,
+          77,
+          101,
+          100,
+          105,
+          97,
+          32,
+          80,
+          108,
+          97,
+          121,
+          101,
+          114,
+          32,
+          45,
+          45,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "mdi",
+    "mime": "image/vnd.ms-modi",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          69,
+          80
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "sxw",
+    "mime": "application/vnd.sun.xml.writer",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          75,
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "mpeg",
+    "mime": "video/mpeg",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          0,
+          0,
+          1,
+          0
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          -1,
+          -40
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "emf",
+    "mime": "image/emf",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          1,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "psd",
+    "mime": "image/vnd.adobe.photoshop",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          56,
+          66,
+          80,
+          83
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "cif",
+    "mime": "application/vnd.multiad.creator.cif",
+    "signature": [
+      {
+        "offSet": 2,
+        "code": [
+          91,
+          86,
+          101,
+          114,
+          115,
+          105,
+          111,
+          110
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "img",
+    "mime": "application/octet-stream",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          0,
+          1,
+          0,
+          0,
+          83,
+          116,
+          97,
+          110,
+          100,
+          97,
+          114,
+          100,
+          32,
+          74,
+          101,
+          116,
+          32,
+          68,
+          66
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          80,
+          73,
+          67,
+          84,
+          0,
+          8
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          81,
+          70,
+          73,
+          -5
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          83,
+          67,
+          77,
+          73
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          126,
+          116,
+          44,
+          1,
+          80,
+          112,
+          2,
+          77,
+          82,
+          1,
+          0,
+          0,
+          0,
+          8,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          49,
+          0,
+          0,
+          0,
+          49,
+          0,
+          0,
+          0,
+          67,
+          1,
+          -1,
+          0,
+          1,
+          0,
+          8,
+          0,
+          1,
+          0,
+          0,
+          0,
+          126,
+          116,
+          44,
+          1
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          -21,
+          60,
+          -112,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "tsa",
+    "mime": "application/tamp-sequence-adjust",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          71
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "tiff",
+    "mime": "image/tiff",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          73,
+          32,
+          73
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          73,
+          73,
+          42,
+          0
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          77,
+          77,
+          0,
+          42
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          77,
+          77,
+          0,
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "cab",
+    "mime": "application/vnd.ms-cab-compressed",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          73,
+          83,
+          99,
+          40
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          77,
+          83,
+          67,
+          70
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "gif",
+    "mime": "image/gif",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          71,
+          73,
+          70,
+          56,
+          57,
+          97
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "eml",
+    "mime": "message/rfc822",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          70,
+          114,
+          111,
+          109,
+          58,
+          32
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          82,
+          101,
+          116,
+          117,
+          114,
+          110,
+          45,
+          80,
+          97,
+          116,
+          104,
+          58,
+          32
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          88,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "aiff",
+    "mime": "audio/x-aiff",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          70,
+          79,
+          82,
+          77,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "fm",
+    "mime": "application/vnd.framemaker",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          60,
+          77,
+          97,
+          107,
+          101,
+          114,
+          70,
+          105,
+          108,
+          101,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "mmf",
+    "mime": "application/vnd.smaf",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          77,
+          77,
+          77,
+          68,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "amr",
+    "mime": "audio/AMR",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          35,
+          33,
+          65,
+          77,
+          82
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "rgb",
+    "mime": "image/x-rgb",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          1,
+          -38,
+          1,
+          1,
+          0,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "cap",
+    "mime": "application/vnd.tcpdump.pcap",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          82,
+          84,
+          83,
+          83
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          88,
+          67,
+          80,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "dtd",
+    "mime": "application/xml-dtd",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          7,
+          100,
+          116,
+          50,
+          100,
+          100,
+          116,
+          100
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "avi",
+    "mime": "video/x-msvideo",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          82,
+          73,
+          70,
+          70
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "tsv",
+    "mime": "text/tab-separated-values",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          71
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "m4a",
+    "mime": "audio/mp4",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          0,
+          0,
+          0,
+          32,
+          102,
+          116,
+          121,
+          112,
+          77,
+          52,
+          65,
+          32
+        ]
+      },
+      {
+        "offSet": 4,
+        "code": [
+          102,
+          116,
+          121,
+          112,
+          77,
+          52,
+          65,
+          32
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "bz2",
+    "mime": "application/x-bzip2",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          66,
+          90,
+          104
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "wk1",
+    "mime": "application/vnd.lotus-1-2-3",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          0,
+          0,
+          2,
+          0,
+          6,
+          4,
+          6,
+          0,
+          8,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "class",
+    "mime": "application/octet-stream",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          -54,
+          -2,
+          -70,
+          -66
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "wk3",
+    "mime": "application/vnd.lotus-1-2-3",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          0,
+          0,
+          26,
+          0,
+          0,
+          16,
+          4,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "sam",
+    "mime": "application/vnd.lotus-wordpro",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          91,
+          80,
+          104,
+          111,
+          110,
+          101,
+          93
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "jpe",
+    "mime": "image/jpeg",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          -1,
+          -40
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          -1,
+          -40
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "sit",
+    "mime": "application/x-stuffit",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          83,
+          73,
+          84,
+          33,
+          0
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          83,
+          116,
+          117,
+          102,
+          102,
+          73,
+          116,
+          32,
+          40,
+          99,
+          41,
+          49,
+          57,
+          57,
+          55,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "jpg",
+    "mime": "image/jpeg",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          -1,
+          -40
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          -1,
+          -40
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          -1,
+          -40
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          -1,
+          -40
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "wk4",
+    "mime": "application/vnd.lotus-1-2-3",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          0,
+          0,
+          26,
+          0,
+          2,
+          16,
+          4,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "pcx",
+    "mime": "image/vnd.zbrush.pcx",
+    "signature": [
+      {
+        "offSet": 512,
+        "code": [
+          9,
+          8,
+          16,
+          0,
+          0,
+          6,
+          5,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "dll",
+    "mime": "application/octet-stream",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          77,
+          90
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "org",
+    "mime": "application/vnd.lotus-organizer",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          65,
+          79,
+          76,
+          86,
+          77,
+          49,
+          48,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "manifest",
+    "mime": "text/cache-manifest",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          60,
+          63,
+          120,
+          109,
+          108,
+          32,
+          118,
+          101,
+          114,
+          115,
+          105,
+          111,
+          110,
+          61
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "ttf",
+    "mime": "application/font-sfnt",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          0,
+          1,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "xla",
+    "mime": "application/vnd.ms-excel",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          -48,
+          -49,
+          17,
+          -32,
+          -95,
+          -79,
+          26,
+          -31
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "wav",
+    "mime": "audio/x-wav",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          82,
+          73,
+          70,
+          70
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "m4v",
+    "mime": "video/mp4",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          0,
+          0,
+          0,
+          24,
+          102,
+          116,
+          121,
+          112,
+          109,
+          112,
+          52,
+          50
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          0,
+          0,
+          0,
+          32,
+          102,
+          116,
+          121,
+          112,
+          77,
+          52,
+          86,
+          32
+        ]
+      },
+      {
+        "offSet": 4,
+        "code": [
+          102,
+          116,
+          121,
+          112,
+          109,
+          112,
+          52,
+          50
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "rpm",
+    "mime": "application/x-rpm",
+    "signature": [
+      {
+        "offSet": 0,
+        "code": [
+          -19,
+          -85,
+          -18,
+          -37
+        ]
+      }
+    ]
+  },
+  {
+    "fileType": "pdb",
+    "mime": "application/vnd.palm",
+    "signature": [
+      {
+        "offSet": 11,
+        "code": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          77,
+          45,
+          87,
+          32,
+          80,
+          111,
+          99,
+          107,
+          101,
+          116,
+          32,
+          68,
+          105,
+          99,
+          116,
+          105
+        ]
+      },
+      {
+        "offSet": 0,
+        "code": [
+          77,
+          105,
+          99,
+          114,
+          111,
+          115,
+          111,
+          102,
+          116,
+          32,
+          67,
+          47,
+          67,
+          43,
+          43,
+          32
+        ]
