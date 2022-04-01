@@ -9,9 +9,9 @@ import java.lang.System;
 
 public class Main {
     public static void main(String[] args) {
-        String fileName = args[0];
-        String pattern = args[1];
-        Manager manager = new Manager(FileManager.getCodes(pattern), fileName);
+        String dirName = args[0]; // directory 
+        String pattern = args[1]; // patterns file
+        Manager manager = new Manager(FileManager.getCodes(pattern), dirName);
         manager.execute();
     }
 }
